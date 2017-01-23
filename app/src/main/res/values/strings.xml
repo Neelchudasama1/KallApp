@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KallApp</string>
+
+
+    <string name="err_prblm_loading_data">Problem in loading data.</string>
+    <string name="err_no_internet">No internet.</string>
+</resources>
